@@ -49,7 +49,7 @@ const App = () => {
         <div className="fixed top-0 left-0 w-full px-4 pt-8 z-10 flex flex-col items-center text-white">
           <div className="w-full cursor-pointer">
             <div className="bg-[#1f1f1f] text-center py-2 rounded-xl">
-              <p className="text-lg">Join squad <Arrow size={18} className="ml-0 mb-1 inline-block" /></p>
+              <p className="text-lg">Join CryptoLords <Arrow size={18} className="ml-0 mb-1 inline-block" /></p>
             </div>
           </div>
           <div className="mt-12 text-5xl font-bold flex items-center">
@@ -78,12 +78,12 @@ const App = () => {
               <div className="w-full bg-[#fad258] py-4 rounded-2xl flex justify-around">
                 <button className="flex flex-col items-center gap-1">
                   <img src={bear} width={24} height={24} alt="High Voltage" />
-                  <span>Frens</span>
+                  <span>Sangi kero</span>
                 </button>
                 <div className="h-[48px] w-[2px] bg-[#fddb6d]"></div>
                 <button className="flex flex-col items-center gap-1">
                   <img src={coin} width={24} height={24} alt="High Voltage" />
-                  <span>Earn</span>
+                  <span>Tappa Tap</span>
                 </button>
                 <div className="h-[48px] w-[2px] bg-[#fddb6d]"></div>
                 <button className="flex flex-col items-center gap-1">
